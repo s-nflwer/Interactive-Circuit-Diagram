@@ -484,7 +484,7 @@
 <body>
     <div class="header">
         <h1>Series vs. Parallel Circuits</h1>
-        <p>Grade 9 Science: Comparing Electrical Circuit Configurations</p>
+        <p>Comparing Electrical Circuit Configurations</p>
     </div>
 
     <div class="comparison-container">
